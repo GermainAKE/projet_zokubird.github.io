@@ -1,0 +1,29 @@
+img
+{
+    width: 310px;
+    height:300px;
+    align-content: center;
+}
+
+/* logo */
+header
+{
+    height:38px;
+    width:auto;
+    background-color:#ff8800;
+}
+form
+{
+}
+/* en tete page */
+footer
+{
+    height:38px;
+    width:auto;
+    background-color:#ff8800;   
+}
+/* pied de page */
+.bout
+{
+    background-color:#ff8800;    
+}
